@@ -4,20 +4,14 @@ Simple application skeleton with typescript, test runner and liniting pre-config
 
 ## System requirements
 
----
-
 - node >= 16
 - yarn
 
 ## Installing dependencies
 
----
-
 `yarn install`
 
 ## Commands and scripts
-
----
 
 #### Start local development server with ts-node:
 
